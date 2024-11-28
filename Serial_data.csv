@@ -1,0 +1,93 @@
+taxon,lab.ID,sample.no,museum.ID,tooth.position,Sr.iso,d13C,d18O.VPDB,d18O.VSMOW,sex,com.name,groove.no,height,x
+Teleoceras major,AFB-02,02-m2.1,UNSM 52272,m2,0.7087,-8.2,-5.5,25.2,m,"""Woofy""",1,1,0.775
+Teleoceras major,AFB-02,02-m2.2,UNSM 52272,m2,0.7087,-8,-6.2,24.5,m,"""Woofy""",2,4,0.775
+Teleoceras major,AFB-02,02-m2.3,UNSM 52272,m2,0.70869,-8,-5.8,24.9,m,"""Woofy""",3,6.5,0.775
+Teleoceras major,AFB-02,02-m2.4,UNSM 52272,m2,0.70868,-8,-5.5,25.2,m,"""Woofy""",4,9.5,0.775
+Teleoceras major,AFB-02,02-m2.5,UNSM 52272,m2,0.70868,-8,-5.2,25.5,m,"""Woofy""",5,12.5,0.775
+Teleoceras major,AFB-02,02-m2.6,UNSM 52272,m2,0.7087,-8,-5.2,25.5,m,"""Woofy""",6,16,0.775
+Teleoceras major,AFB-02,02-m2.7,UNSM 52272,m2,0.70867,-8,-5,25.8,m,"""Woofy""",7,18.5,0.775
+Teleoceras major,AFB-02,02-m2.8,UNSM 52272,m2,0.70866,-8,-6.1,24.6,m,"""Woofy""",8,21.5,0.775
+Teleoceras major,AFB-02,02-m2.9,UNSM 52272,m2,0.7087,-8,-7,23.7,m,"""Woofy""",9,24.5,0.775
+Teleoceras major,AFB-02,02-m2.10,UNSM 52272,m2,0.70868,-8.1,-6,24.7,m,"""Woofy""",10,27.5,0.775
+Teleoceras major,AFB-02,02-m2.11,UNSM 52272,m2,0.70869,-8.5,-5.8,24.9,m,"""Woofy""",11,30,0.775
+Teleoceras major,AFB-02,02-m3.1,UNSM 52272,m3,0.70866,-8.5,-5.9,24.8,m,"""Woofy""",1,1.5,1.775
+Teleoceras major,AFB-02,02-m3.2,UNSM 52272,m3,0.70869,-8.5,-5.3,25.4,m,"""Woofy""",2,4,1.775
+Teleoceras major,AFB-02,02-m3.3,UNSM 52272,m3,0.7087,-8.5,-6.6,24.1,m,"""Woofy""",3,6.5,1.775
+Teleoceras major,AFB-02,02-m3.4,UNSM 52272,m3,0.70866,-8.3,-7.5,23.2,m,"""Woofy""",4,9,1.775
+Teleoceras major,AFB-02,02-m3.5,UNSM 52272,m3,0.70868,-8.3,-7.5,23.2,m,"""Woofy""",5,12,1.775
+Teleoceras major,AFB-02,02-m3.6,UNSM 52272,m3,0.70867,-8.1,-6.6,24.1,m,"""Woofy""",6,15,1.775
+Teleoceras major,AFB-02,02-m3.7,UNSM 52272,m3,0.70866,-8.2,-6.3,24.4,m,"""Woofy""",7,18,1.775
+Teleoceras major,AFB-02,02-m3.8,UNSM 52272,m3,0.70868,-8.3,-5.7,25,m,"""Woofy""",8,21.5,1.775
+Teleoceras major,AFB-02,02-m3.9,UNSM 52272,m3,0.70867,-8.4,-5.2,25.5,m,"""Woofy""",9,24.5,1.775
+Teleoceras major,AFB-02,02-m3.10,UNSM 52272,m3,0.70867,-8.6,-5.5,25.2,m,"""Woofy""",10,27.5,1.775
+Teleoceras major,AFB-07,07-m2.1,UNSM 52286,m2,NA,-8.4,-4.6,26.2,f,"""Mary Anning""",1,2,1.075
+Teleoceras major,AFB-07,07-m2.2,UNSM 52286,m2,0.70864,-8.5,-4,26.8,f,"""Mary Anning""",2,4.5,1.075
+Teleoceras major,AFB-07,07-m2.3,UNSM 52286,m2,0.70866,-9.2,-4.3,26.5,f,"""Mary Anning""",3,7.5,1.075
+Teleoceras major,AFB-07,07-m2.4,UNSM 52286,m2,0.70866,-9.1,-5,25.8,f,"""Mary Anning""",4,10,1.075
+Teleoceras major,AFB-07,07-m2.5,UNSM 52286,m2,0.70866,-9.3,-5.6,25.1,f,"""Mary Anning""",5,13,1.075
+Teleoceras major,AFB-07,07-m2.6,UNSM 52286,m2,0.70867,-9.1,-5.8,24.9,f,"""Mary Anning""",6,16,1.075
+Teleoceras major,AFB-07,07-m2.7,UNSM 52286,m2,0.70863,-9,-6.8,23.9,f,"""Mary Anning""",7,19,1.075
+Teleoceras major,AFB-07,07-m2.8,UNSM 52286,m2,0.70861,-9.6,-6.4,24.3,f,"""Mary Anning""",8,22,1.075
+Teleoceras major,AFB-07,07-m2.9,UNSM 52286,m2,0.70862,-9.7,-6.3,24.4,f,"""Mary Anning""",9,25.5,1.075
+Teleoceras major,AFB-07,07-m3.1,UNSM 52286,m3,0.70867,-9.5,-7.8,22.9,f,"""Mary Anning""",1,3.5,2.075
+Teleoceras major,AFB-07,07-m3.2,UNSM 52286,m3,0.70867,-9.4,-7,23.7,f,"""Mary Anning""",2,5.5,2.075
+Teleoceras major,AFB-07,07-m3.3,UNSM 52286,m3,0.70868,-9.7,-6,24.7,f,"""Mary Anning""",3,8.5,2.075
+Teleoceras major,AFB-07,07-m3.4,UNSM 52286,m3,0.70867,-9.6,-5.2,25.5,f,"""Mary Anning""",4,11.5,2.075
+Teleoceras major,AFB-07,07-m3.5,UNSM 52286,m3,0.70865,-9.4,-5.3,25.4,f,"""Mary Anning""",5,14,2.075
+Teleoceras major,AFB-07,07-m3.6,UNSM 52286,m3,0.70869,-9.2,-5.7,25,f,"""Mary Anning""",6,16.5,2.075
+Teleoceras major,AFB-07,07-m3.7,UNSM 52286,m3,0.70864,-9.3,-6.9,23.8,f,"""Mary Anning""",7,19.5,2.075
+Teleoceras major,AFB-07,07-m3.8,UNSM 52286,m3,0.70865,-9.3,-6.2,24.5,f,"""Mary Anning""",8,22.5,2.075
+Teleoceras major,AFB-07,07-m3.9,UNSM 52286,m3,0.70865,-9.7,-6.4,24.3,f,"""Mary Anning""",9,25.5,2.075
+Teleoceras major,AFB-07,07-m3.10,UNSM 52286,m3,0.70866,-10,-4.8,26,f,"""Mary Anning""",10,29,2.075
+Teleoceras major,AFB-25,25-m2.1,UNSM 27805,m2,0.70867,-9.5,-6.2,24.5,m,"""Grandpa John""",1,1.5,0.925
+Teleoceras major,AFB-25,25-m2.2,UNSM 27805,m2,0.7087,-9.3,-5.5,25.2,m,"""Grandpa John""",2,4.5,0.925
+Teleoceras major,AFB-25,25-m2.3,UNSM 27805,m2,0.70869,-8.9,-7,23.7,m,"""Grandpa John""",3,7.5,0.925
+Teleoceras major,AFB-25,25-m2.4,UNSM 27805,m2,0.70868,-8.9,-7.1,23.6,m,"""Grandpa John""",4,10,0.925
+Teleoceras major,AFB-25,25-m2.5,UNSM 27805,m2,0.70869,-9,-6.6,24.1,m,"""Grandpa John""",5,12.5,0.925
+Teleoceras major,AFB-25,25-m2.6,UNSM 27805,m2,0.7087,-9.2,-3.9,26.9,m,"""Grandpa John""",6,15.5,0.925
+Teleoceras major,AFB-25,25-m2.7,UNSM 27805,m2,0.70868,-9.3,-6,24.7,m,"""Grandpa John""",7,17,0.925
+Teleoceras major,AFB-25,25-m2.8,UNSM 27805,m2,0.70869,-9.1,-5,25.8,m,"""Grandpa John""",8,19.5,0.925
+Teleoceras major,AFB-25,25-m2.9,UNSM 27805,m2,0.70869,-9.8,-5.3,25.4,m,"""Grandpa John""",9,22,0.925
+Teleoceras major,AFB-25,25-m2.10,UNSM 27805,m2,0.70871,-9.3,-6.3,24.4,m,"""Grandpa John""",10,24.5,0.925
+Teleoceras major,AFB-25,25-m2.11,UNSM 27805,m2,0.70869,-9.6,-7.7,23,m,"""Grandpa John""",11,27.5,0.925
+Teleoceras major,AFB-25,25-m2.12,UNSM 27805,m2,0.70868,-9.6,-5.5,25.2,m,"""Grandpa John""",12,30,0.925
+Teleoceras major,AFB-25,25-m3.1,UNSM 27805,m3,0.70866,-9.1,-6.3,24.4,m,"""Grandpa John""",1,2.5,1.925
+Teleoceras major,AFB-25,25-m3.2,UNSM 27805,m3,0.70862,-9.3,-5.7,25,m,"""Grandpa John""",2,5,1.925
+Teleoceras major,AFB-25,25-m3.3,UNSM 27805,m3,0.70864,-9.5,-6.5,24.2,m,"""Grandpa John""",3,7.5,1.925
+Teleoceras major,AFB-25,25-m3.4,UNSM 27805,m3,0.70866,-8.7,-6.7,24,m,"""Grandpa John""",4,10.5,1.925
+Teleoceras major,AFB-25,25-m3.5,UNSM 27805,m3,0.70866,-9.1,-8.1,22.6,m,"""Grandpa John""",5,13.5,1.925
+Teleoceras major,AFB-25,25-m3.6,UNSM 27805,m3,0.70866,-9.1,-7.1,23.6,m,"""Grandpa John""",6,17,1.925
+Teleoceras major,AFB-25,25-m3.7,UNSM 27805,m3,0.70864,-8.8,-6.9,23.8,m,"""Grandpa John""",7,20,1.925
+Teleoceras major,AFB-25,25-m3.8,UNSM 27805,m3,0.70865,-8.8,-5,25.8,m,"""Grandpa John""",8,23,1.925
+Teleoceras major,AFB-25,25-m3.9,UNSM 27805,m3,0.70865,-9.1,-6.1,24.6,m,"""Grandpa John""",9,26,1.925
+Teleoceras major,AFB-25,25-m3.10,UNSM 27805,m3,0.70866,-8.8,-6,24.7,m,"""Grandpa John""",10,29,1.925
+Teleoceras major,AFB-25,25-m3.11,UNSM 27805,m3,0.70866,-8.7,-6.5,24.2,m,"""Grandpa John""",11,31.5,1.925
+Teleoceras major,AFB-25,25-m3.12,UNSM 27805,m3,0.70868,-8.5,-6,24.7,m,"""Grandpa John""",12,34.5,1.925
+Teleoceras major,AFB-25,25-m3.13,UNSM 27805,m3,0.70866,-8.6,-7.1,23.6,m,"""Grandpa John""",13,37,1.925
+Teleoceras major,AFB-25,25-m3.14,UNSM 27805,m3,0.70867,-8.4,-5.2,25.5,m,"""Grandpa John""",14,40,1.925
+Teleoceras major,AFB-30,30-m2.1,UNSM 27807,m2,0.70872,-8,-4.8,26,f,"""Sparky""",1,2,1.225
+Teleoceras major,AFB-30,30-m2.2,UNSM 27807,m2,0.70872,-9.1,-6.8,23.9,f,"""Sparky""",2,4.5,1.225
+Teleoceras major,AFB-30,30-m2.3,UNSM 27807,m2,0.70868,-8.5,-5.5,25.2,f,"""Sparky""",3,6.5,1.225
+Teleoceras major,AFB-30,30-m2.4,UNSM 27807,m2,0.70872,-9.4,-6.4,24.3,f,"""Sparky""",4,9.5,1.225
+Teleoceras major,AFB-30,30-m2.5,UNSM 27807,m2,0.70872,-8.9,-7,23.7,f,"""Sparky""",5,12.5,1.225
+Teleoceras major,AFB-30,30-m2.6,UNSM 27807,m2,0.70871,-8.4,-7.1,23.6,f,"""Sparky""",6,14.5,1.225
+Teleoceras major,AFB-30,30-m2.7,UNSM 27807,m2,0.7087,-8.6,-5.4,25.3,f,"""Sparky""",7,18.5,1.225
+Teleoceras major,AFB-30,30-m2.8,UNSM 27807,m2,0.70875,-8.9,-4.1,26.7,f,"""Sparky""",8,22,1.225
+Teleoceras major,AFB-30,30-m2.9,UNSM 27807,m2,0.70872,-8.7,-4.3,26.5,f,"""Sparky""",9,24.5,1.225
+Teleoceras major,AFB-30,30-m2.10,UNSM 27807,m2,0.70871,-8.5,-5.6,25.1,f,"""Sparky""",10,27.5,1.225
+Teleoceras major,AFB-30,30-m2.11,UNSM 27807,m2,0.70871,-8.4,-4.8,26,f,"""Sparky""",11,30.5,1.225
+Teleoceras major,AFB-30,30-m2.12,UNSM 27807,m2,0.70871,-8.7,-5.8,24.9,f,"""Sparky""",12,33.5,1.225
+Teleoceras major,AFB-30,30-m2.13,UNSM 27807,m2,0.70872,-9,-7.5,23.2,f,"""Sparky""",13,36.5,1.225
+Teleoceras major,AFB-30,30-m3.1,UNSM 27807,m3,0.7087,-8.5,-6.1,24.6,f,"""Sparky""",1,1,2.225
+Teleoceras major,AFB-30,30-m3.2,UNSM 27807,m3,0.70872,-8.4,-7.5,23.2,f,"""Sparky""",2,4,2.225
+Teleoceras major,AFB-30,30-m3.3,UNSM 27807,m3,0.70872,-8.3,-7.4,23.3,f,"""Sparky""",3,7,2.225
+Teleoceras major,AFB-30,30-m3.4,UNSM 27807,m3,0.70871,-8,-6.4,24.3,f,"""Sparky""",4,10,2.225
+Teleoceras major,AFB-30,30-m3.5,UNSM 27807,m3,0.70872,-8.1,-5.8,24.9,f,"""Sparky""",5,13,2.225
+Teleoceras major,AFB-30,30-m3.6,UNSM 27807,m3,0.70873,-8,-5.4,25.3,f,"""Sparky""",6,16,2.225
+Teleoceras major,AFB-30,30-m3.7,UNSM 27807,m3,0.70869,-8.1,-6.2,24.5,f,"""Sparky""",7,18.5,2.225
+Teleoceras major,AFB-30,30-m3.8,UNSM 27807,m3,0.70872,-8.2,-7.2,23.5,f,"""Sparky""",8,21.5,2.225
+Teleoceras major,AFB-30,30-m3.9,UNSM 27807,m3,0.70871,-8.2,-7.3,23.4,f,"""Sparky""",9,24.5,2.225
+Teleoceras major,AFB-30,30-m3.10,UNSM 27807,m3,0.70872,-7.9,-6.1,24.6,f,"""Sparky""",10,28,2.225
+Teleoceras major,AFB-30,30-m3.11,UNSM 27807,m3,0.70874,-8.2,-6.3,24.4,f,"""Sparky""",11,31,2.225
+Teleoceras major,AFB-30,30-m3.12,UNSM 27807,m3,0.70873,-8.5,-5.5,25.2,f,"""Sparky""",12,33.5,2.225
+Teleoceras major,AFB-30,30-m3.13,UNSM 27807,m3,0.70873,-8.6,-5.6,25.1,f,"""Sparky""",13,36.5,2.225

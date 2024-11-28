@@ -1,0 +1,27 @@
+taxon,lab.ID,sample.no,museum.ID,tooth.position,Sr.iso,d13C,d18O.VPDB,d18O.VSMOW,sex,com.name,grp,x
+Teleoceras major,AFB-02,AFB-02-m2,UNSM 52247,m2,0.7087,-8.1,-6.6,24.1,m,"""Woofy""",1,2.9
+Teleoceras major,AFB-04,AFB-04-m2,UNSM 27803,m2,0.70868,-8.8,-7.8,22.9,m,"""Morris""",1,2.9
+Teleoceras major,AFB-05,AFB-05-m2,UNSM 52236,m2,0.70874,-8.7,-7.7,23,m,"""Bruce""",1,2.9
+Teleoceras major,AFB-24,AFB-24-m2,UNSM 52288,m2,0.70863,-8.4,-6.6,24.1,m,"""Fairfield""",1,2.9
+Teleoceras major,AFB-25,AFB-25-m2,UNSM 27805,m2,0.70868,-8,-5.6,25.1,m,"""Grandpa John""",1,2.9
+Teleoceras major,AFB-02,AFB-02-m3,UNSM 52247,m3,0.70869,-8.1,-5.6,25.1,m,"""Woofy""",2,3.9
+Teleoceras major,AFB-04,AFB-04-m3,UNSM 27803,m3,0.70864,-8.3,-5.4,25.3,m,"""Morris""",2,3.9
+Teleoceras major,AFB-05,AFB-05-m3,UNSM 52236,m3,0.70874,-7.7,-5.9,24.8,m,"""Bruce""",2,3.9
+Teleoceras major,AFB-24,AFB-24-m3,UNSM 52288,m3,0.70865,-8.5,-7.3,23.4,m,"""Fairfield""",2,3.9
+Teleoceras major,AFB-25,AFB-25-m3,UNSM 27805,m3,0.70866,-8.6,-6.9,23.8,m,"""Grandpa John""",2,3.9
+Teleoceras major,AFB-03,AFB-03-m2,UNSM 27808,m2,0.70864,-9,-7,23.7,f,"""Scarlet O'Hara""",3,3.1
+Teleoceras major,AFB-06,AFB-06-m2,UNSM 52373,m2,0.70863,-9.6,-7.3,23.4,f,"""Diller""",3,3.1
+Teleoceras major,AFB-07,AFB-07-m2,UNSM 52286,m2,0.70867,-8.6,-6.4,24.3,f,"""Mary Anning""",3,3.1
+Teleoceras major,AFB-26,AFB-26-m2,UNSM 52282,m2,0.70866,-8.2,-5.6,25.1,f,"""Jean""",3,3.1
+Teleoceras major,AFB-27,AFB-27-m2,UNSM 27806,m2,0.70874,-9.1,-4.8,26,f,"""Barb""",3,3.1
+Teleoceras major,AFB-28,AFB-28-m2,UNSM 52289,m2,0.70868,-8.8,-6.3,24.4,f,"""Joseph Leidy""",3,3.1
+Teleoceras major,AFB-29,AFB-29-m2,UNSM 52269,m2,0.70872,-8.7,-6.4,24.3,f,"""Pushy""",3,3.1
+Teleoceras major,AFB-30,AFB-30-m2,UNSM 27807,m2,0.70872,-7.8,-5.2,25.5,f,"""Sparky""",3,3.1
+Teleoceras major,AFB-03,AFB-03,UNSM 27808,m3,0.70866,-8.8,-6.1,24.6,f,"""Scarlet O'Hara""",4,4.1
+Teleoceras major,AFB-06,AFB-06,UNSM 52373,m3,0.70868,-9.2,-6.6,24.1,f,"""Diller""",4,4.1
+Teleoceras major,AFB-07,AFB-07,UNSM 52286,m3,0.70868,-8.4,-6.1,24.6,f,"""Mary Anning""",4,4.1
+Teleoceras major,AFB-26,AFB-26-m3,UNSM 52282,m3,0.70864,-8.3,-7,23.7,f,"""Jean""",4,4.1
+Teleoceras major,AFB-27,AFB-27-m3,UNSM 27806,m3,0.70873,-8.5,-5.8,24.9,f,"""Barb""",4,4.1
+Teleoceras major,AFB-28,AFB-28-m3,UNSM 52289,m3,0.70871,-8.4,-6.7,24,f,"""Joseph Leidy""",4,4.1
+Teleoceras major,AFB-29,AFB-29-m3,UNSM 52269,m3,0.7087,-8.3,-6,24.7,f,"""Pushy""",4,4.1
+Teleoceras major,AFB-30,AFB-30-m3,UNSM 27807,m3,0.7087,-7.9,-4.8,26,f,"""Sparky""",4,4.1
